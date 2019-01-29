@@ -40,7 +40,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
-    'breathe',
+    'breathe'
+    'sphinx.ext.mathjax',
 ]
 
 # Breathe extension variables
