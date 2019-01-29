@@ -41,7 +41,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
     'breathe',
-#    'sphinx.ext.mathjax',
+    'sphinx.ext.mathjax',
 ]
 
 # Breathe extension variables
