@@ -777,8 +777,8 @@ WARN_LOGFILE           =
 # spaces. See also FILE_PATTERNS and EXTENSION_MAPPING
 # Note: If this tag is empty the current directory is searched.
 
-INPUT                  = modules.dox \
-                         ROCm_Libraries/rocALUTION/src/base/backend_manager.hpp \
+
+INPUT                  = ROCm_Libraries/rocALUTION/src/base/backend_manager.hpp \
                          ROCm_Libraries/rocALUTION/src/base/parallel_manager.hpp \
                          ROCm_Libraries/rocALUTION/src/utils/allocate_free.hpp \
                          ROCm_Libraries/rocALUTION/src/utils/time_functions.hpp \
